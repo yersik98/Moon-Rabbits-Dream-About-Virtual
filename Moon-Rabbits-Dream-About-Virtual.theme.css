@@ -1,34 +1,3 @@
-/**
- * @name Moon Rabbits Dream About Virtual
- * @description Based in Tsukino Mito Album Presentation
- * @author zuzumi#5335
- * @authorId 437579806616322049
- * @invite PsNtzGeHuW
- * @donate https://www.paypal.me/hurtyoutube
- * @website https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual
- * @source https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual/blob/main/release/tsukino-mito.base.css
- * @version 3
-*/
-
-/*---------------------------------------------------------------
-   Theme Import you can't disable this is the full theme dummy
----------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito-base.css');
-
-/*---------------------------------------------------------------
-               Make it look Like Another Window
----------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
-
-/*---------------------------------------------------------------
-                        Custom Settings
----------------------------------------------------------------*/
-
-/* Animate the background */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-animation.css');
-
-/* Add transparency for background images */
-/* @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/background-image.css'); */
 
 /* Pop Effect */
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
