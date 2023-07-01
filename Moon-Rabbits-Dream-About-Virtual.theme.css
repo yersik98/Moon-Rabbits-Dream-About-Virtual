@@ -41,17 +41,17 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "𝙁𝘼𝙉𝙏Ø𝙈";
 
     /* General Colors */
-    --border-color: #da4a60;
-    --drag-gradient1: #e8c4d3;
-    --drag-gradient2: #e39ba7;
-    --name-bg: #d95b72;
+    --border-color: #1f8869;
+    --drag-gradient1: #0f6444;
+    --drag-gradient2: #186b52;
+    --name-bg: #125c3c;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
+    --bg-gradient1: #17745f;
+    --bg-gradient2: #6c2b81;
     --bg-gradient3: #54b5de;
     --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
@@ -77,18 +77,18 @@
     --idle-color: #ffca3a;
     --dnd-color: #f73c3c;
     --offline-color: #707070;
-    --streaming-color: #f066f0;
+    --streaming-color: #2f1370;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #F0F2F2;
-    --text-color: #313D40;
+    --channeltextarea-background: rgb(240, 242, 241);
+    --text-color: rgb(16, 9, 82);
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
     --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
 
     /* Other options */
-    --border-width: 3px;
+    --border-width: 5px;
     --round-corners: 16px;
 }
 
